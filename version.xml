@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.6.0</version>
+    <version>1.0.0.6</version>
     <url>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/download/vBeta-rc.5/Cifranex_Setup_vBeta-rc.5.exe</url>
     <changelog>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/tag/vBeta-rc.5</changelog>
     <mandatory>false</mandatory>
