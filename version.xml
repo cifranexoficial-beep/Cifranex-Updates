@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-  <version>0.9.0.0</version>
-  <url>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/download/v0.9.0-Beta/Cifranex_Setup_v0.9.0-Beta.exe</url>
-  <changelog>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/tag/v0.9.0-Beta</changelog>
-  <mandatory>false</mandatory>
+    <version>1.0.0.8</version>
+    <url>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/download/v0.9.0-Beta/Cifranex_Setup_v0.9.0-Beta.exe</url>
+    <mandatory>false</mandatory>
 </item>
