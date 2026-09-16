@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.1.5.0</version>
-    <url>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/download/v1.1.5/Cifranex_Setup_v1.1.5.exe</url>
+    <version>1.1.6.0</version>
+    <url>https://github.com/cifranexoficial-beep/Cifranex-Updates/releases/download/v1.1.6/Cifranex_Setup_v1.1.6.exe</url>
     <mandatory>false</mandatory>
-    <checksum algorithm="SHA256">8D58375C3D70095C5FDD635F087A68EDDE6680A0B6A337562E25DEF7E569407F</checksum>
+    <checksum algorithm="SHA256">317D29D05DB2300908572F1527A08101BCBE2A4610743DF59EC13CF7F43C374E</checksum>
 </item>
